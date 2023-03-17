@@ -10,7 +10,7 @@ This tool is designed with the aim of simplifying network scanning and sniffing,
 
 
 # Installation
-git clone 
+git clone https://github.com/venkatsaisagar/S3N.git
 
 cd S3N
 
