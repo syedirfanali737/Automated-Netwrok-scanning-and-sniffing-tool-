@@ -1,0 +1,7 @@
+import subprocess
+
+if __name__=="__main__":
+
+	subprocess.run(["sudo","apt","install","xterm"])
+	subprocess.run(["sudo","apt","install","konsole"])
+
