@@ -1,5 +1,5 @@
 ## S3N
-[S3N]: SAGAR'S SCANNING AND SNIFFING THE NETWORK Tool for Script kidde's 
+[S3N]: SAGAR'S SCANNING AND SNIFFING THE NETWORK Tool for Script kiddie's 
 
 
 A powerful and easy-to-use network scaning and network sniffing.
